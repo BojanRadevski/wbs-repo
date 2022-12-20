@@ -21,7 +21,7 @@
   foaf:depiction <https://bojanradevski.github.io/> ;
   foaf:phone <tel:072263469> ;
   foaf:workplaceHomepage <https://www.facebook.com/bojan.radevski.11> ;
-  foaf:workInfoHomepage <https://bojanradevski.github.io/WbsFOAF/Web Development> ;
+  foaf:workInfoHomepage <https://bojanradevski.github.io/WbsFOAF/WebDevelopment> ;
   foaf:schoolHomepage <https://www.finki.ukim.mk/> ;
   foaf:knows [
     a foaf:Person ;
